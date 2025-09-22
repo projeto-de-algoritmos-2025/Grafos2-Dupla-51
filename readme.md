@@ -18,6 +18,6 @@ Yan Luca Viana de Araújo Fontenele - 211031889
 ![Exemplo](assets/shortestPathVisitingAllNodes.png)
 
 
-<!-- # Vídeo explicativo
+# Vídeo explicativo
 
-[![Vídeo explicativo](https://img.youtube.com/vi/JdX1XPz5eO8/0.jpg)](https://youtu.be/JdX1XPz5eO8) -->
+[![Vídeo explicativo](https://img.youtube.com/vi/-tfShQR0Vt0/0.jpg)](https://youtu.be/-tfShQR0Vt0)
